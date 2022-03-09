@@ -1,0 +1,3 @@
+[submodule "0x00-shell_basics"]
+	path = 0x00-shell_basics
+	url = https://github.com/samget123/alx-system_engineering-devops.git
